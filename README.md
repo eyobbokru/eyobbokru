@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyob Bokru</h1>
-<h3 align="center">A passionate data engineer/Software developer from Ethiopia</h3>
+<h3 align="center">A passionate data engineer/Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobbokru&label=Profile%20views&color=0e75b6&style=flat" alt="eyobbokru" /> </p>
 
