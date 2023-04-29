@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyob Bokru</h1>
-<h3 align="center">A passionate data engineer/Software developer</h3> at [BETTER Mobile Security](https://www.better.mobi) solving problems using tech-stack like Python, .NET, React,TypeScript and more.
+<h3 align="center">A passionate Software developer</h3> at [BETTER Mobile Security](https://www.better.mobi) solving problems using tech-stack like Python, .NET, React,TypeScript and more.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobbokru&label=Profile%20views&color=0e75b6&style=flat" alt="eyobbokru" /> </p>
 
