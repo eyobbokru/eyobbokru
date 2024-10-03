@@ -33,6 +33,6 @@
 <a href="https://github.com/eyobbokru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyobbokru&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" alt="Eyob's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobbokru&layout=compact&hide=SCSS&show_icons=true&theme=dark#gh-dark-mode-only&layout=compact" 
-    alt="Eyob's GitHub Top Languages" /> -->
+    alt="Eyob's GitHub Top Languages" />
 </a>
 -->
