@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobbokru&label=Profile%20views&color=0e75b6&style=flat" alt="eyobbokru" /> </p>
 
 
-- 👨 Know more about me at [Linkedin]([https://www.linkedin.com/in/eyob-b-ba2407204/])
+- 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/eyob-b-ba2407204/)
 
 ## GitHub Stats
 
